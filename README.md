@@ -4,7 +4,7 @@
 **Dicee Game** is a fun and interactive dice-rolling game designed for single player! 😎 Built with **HTML**, **CSS**, and **JavaScript**, this game allows player to roll dice and see who gets the higher number to win the game. Play right in your browser and enjoy the thrill of the roll! 🎲✨
 
 ## 🌐 Live Demo
-Experience the excitement! Check out the live demo here: [Dicee Game Live Demo](https://your-live-demo-link.com) 🌟
+Experience the excitement! Check out the live demo here: [Dicee Game Live Demo](anuwuzz.github.io/Dice-game/) 🌟
 
 ## 🚀 Features
 - 🎲 **Interactive Gameplay**: Roll the dice and see who wins in real-time!
