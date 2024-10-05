@@ -24,4 +24,7 @@ Experience the excitement! Check out the live demo here: [Dicee Game Live Demo](
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/dicee-game.git
+```
+```bash
 cd dicee-game
+```
